@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Validador PT</string>
+    <string name="tab_nif">NIF</string>
+    <string name="tab_iban">IBAN</string>
+    <string name="tab_nib">NIB</string>
+    <string name="hint_nif">NIF (9 dígitos)"</string>
+    <string name="hint_iban">IBAN (ex: PT50 0000 0000 0000 0000 0000 00)"</string>
+    <string name="hint_nib">NIB (21 dígitos)"</string>
+    <string name="btn_validate">Validar"</string>
+    <string name="label_valid_nif">NIF válido"</string>
+    <string name="label_valid_iban">IBAN válido"</string>
+    <string name="label_valid_nib">NIB válido"</string>
+    <string name="disclaimer">Esta verificação confirma apenas a correção estrutural/matemática do número — não confirma existência real, atividade, ou associação a uma entidade concreta."</string>
+    <string name="entity_type_singular">Pessoa singular"</string>
+    <string name="entity_type_corporate">Pessoa coletiva"</string>
+    <string name="entity_type_public">Pessoa coletiva pública"</string>
+    <string name="entity_type_freelancer">Empresário em nome individual"</string>
+    <string name="entity_type_irregular">Pessoa coletiva irregular / número provisório"</string>
+    <string name="entity_type_unknown">Tipo não reconhecido"</string>
+</resources>

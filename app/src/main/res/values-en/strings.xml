@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Validador PT</string>
+    <string name="tab_nif">NIF</string>
+    <string name="tab_iban">IBAN</string>
+    <string name="tab_nib">NIB</string>
+    <string name="hint_nif">NIF (9 digits)"</string>
+    <string name="hint_iban">IBAN (ex: PT50 0000 0000 0000 0000 0000 00)"</string>
+    <string name="hint_nib">NIB (21 digits)"</string>
+    <string name="btn_validate">Validate"</string>
+    <string name="label_valid_nif">Valid NIF"</string>
+    <string name="label_valid_iban">Valid IBAN"</string>
+    <string name="label_valid_nib">Valid NIB"</string>
+    <string name="disclaimer">This check only confirms the mathematical/structural correctness of the number — it does not confirm real existence, active status, or association with any specific entity."</string>
+    <string name="entity_type_singular">Individual"</string>
+    <string name="entity_type_corporate">Corporate entity"</string>
+    <string name="entity_type_public">Public entity"</string>
+    <string name="entity_type_freelancer">Sole trader / individual entrepreneur"</string>
+    <string name="entity_type_irregular">Irregular entity / provisional"</string>
+    <string name="entity_type_unknown">Unknown type"</string>
+</resources>

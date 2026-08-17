@@ -1,0 +1,172 @@
+[
+  {
+    "code": "0001",
+    "name": "Banco de Portugal",
+    "swift": "BGALPTTGXXX"
+  },
+  {
+    "code": "0007",
+    "name": "Novo Banco",
+    "swift": "BESCPTPL"
+  },
+  {
+    "code": "0008",
+    "name": "Banco BAI Europa",
+    "swift": "BAIPPTPL"
+  },
+  {
+    "code": "0010",
+    "name": "Banco BPI",
+    "swift": "BBEPPTPL"
+  },
+  {
+    "code": "0014",
+    "name": "Banco Invest",
+    "swift": "IVVSPTPL"
+  },
+  {
+    "code": "0018",
+    "name": "Banco Santander Totta",
+    "swift": "TOTAPTPL"
+  },
+  {
+    "code": "0019",
+    "name": "BBVA (Portugal)",
+    "swift": "BBVAPTPL"
+  },
+  {
+    "code": "0022",
+    "name": "Banco do Brasil - Sucursal em Portugal",
+    "swift": "BRASPTPL"
+  },
+  {
+    "code": "0023",
+    "name": "ActivoBank",
+    "swift": "ACTVPTPL"
+  },
+  {
+    "code": "0025",
+    "name": "Caixa - Banco de Investimento",
+    "swift": "CXBIPTPL"
+  },
+  {
+    "code": "0027",
+    "name": "Banco Portugues de Investimento",
+    "swift": "BPIPPTPL"
+  },
+  {
+    "code": "0033",
+    "name": "Millennium BCP",
+    "swift": "BCOMPTPL"
+  },
+  {
+    "code": "0035",
+    "name": "Caixa Geral de Depositos",
+    "swift": "CGDIPTPL"
+  },
+  {
+    "code": "0036",
+    "name": "Caixa Economica Montepio Geral",
+    "swift": "MPIOPTPL"
+  },
+  {
+    "code": "0038",
+    "name": "BANIF - Banco Internacional do Funchal",
+    "swift": "BNIFPTPL"
+  },
+  {
+    "code": "0045",
+    "name": "CCCAM - Credito Agricola (Caixa Central)",
+    "swift": "CCCMPTPL"
+  },
+  {
+    "code": "0046",
+    "name": "Banco Popular Portugal",
+    "swift": "CRBNPTPL"
+  },
+  {
+    "code": "0048",
+    "name": "Banco Finantia",
+    "swift": "BFIAPTPL"
+  },
+  {
+    "code": "0061",
+    "name": "Banco de Investimento Global (BIG)",
+    "swift": "BDIGPTPL"
+  },
+  {
+    "code": "0063",
+    "name": "BANIF (codigo alternativo)",
+    "swift": "BNFIPTPL"
+  },
+  {
+    "code": "0064",
+    "name": "Banco Portugues de Gestao",
+    "swift": "BPGPPTPL"
+  },
+  {
+    "code": "0065",
+    "name": "BEST - Banco Eletronico de Servico Total",
+    "swift": "BESZPTPL"
+  },
+  {
+    "code": "0073",
+    "name": "Santander Consumer",
+    "swift": null
+  },
+  {
+    "code": "0079",
+    "name": "Banco BIC Portugues",
+    "swift": "BPNPPTPL"
+  },
+  {
+    "code": "0086",
+    "name": "Banco Efisa",
+    "swift": "EFISPTPL"
+  },
+  {
+    "code": "0170",
+    "name": "ABANCA",
+    "swift": null
+  },
+  {
+    "code": "0189",
+    "name": "Banco Privado Atlantico - Europa",
+    "swift": "BAPAPTPL"
+  },
+  {
+    "code": "0191",
+    "name": "BNI - Banco de Negocios Internacional",
+    "swift": "BNICPTPL"
+  },
+  {
+    "code": "0193",
+    "name": "Banco CTT",
+    "swift": "CTTVPTPL"
+  },
+  {
+    "code": "0235",
+    "name": "Banco L. J. Carregosa",
+    "swift": "BLJCPTPT"
+  },
+  {
+    "code": "0269",
+    "name": "Bankinter (Sucursal em Portugal)",
+    "swift": "BKBKPTPL"
+  },
+  {
+    "code": "0698",
+    "name": "UNICRE",
+    "swift": "UIFCPTP1XXX"
+  },
+  {
+    "code": "5180",
+    "name": "Credito Agricola - Caixa de Leiria",
+    "swift": "CDCTPTP2XXX"
+  },
+  {
+    "code": "5200",
+    "name": "Credito Agricola - Caixa de Mafra",
+    "swift": "CDOTPTP1XXX"
+  }
+]

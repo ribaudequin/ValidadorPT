@@ -1,0 +1,25 @@
+# Build
+.gradle/
+build/
+app/build/
+
+# Local
+local.properties
+.idea/
+*.iml
+
+# Memory/Docs (excluded from repo)
+SUMMARY.md
+PLANO.md
+TODO.md
+MEMORY.md
+AGENTS.md
+docs/
+
+# Android
+*.apk
+*.aab
+captures/
+
+# VCS
+*.log
